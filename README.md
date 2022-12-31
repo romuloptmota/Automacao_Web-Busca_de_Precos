@@ -1,4 +1,4 @@
-# Projeto Automação Web - Busca de Preços <img src="imagens/logo_python.png" width="30" height="30"> <img src="imagens/logo_pandas.png" width="40" height="40"> <img src="imagens/logo_webscraping.png" width="30" height="30">
+# Projeto Automação Web - Busca de Preços  <img src="imagens/logo_python.png" width="30" height="30"> <img src="imagens/logo_pandas.png" width="40" height="40"> <img src="imagens/logo_webscraping.png" width="30" height="30">
 
 
 ### Descrição:
