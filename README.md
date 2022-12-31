@@ -1,4 +1,4 @@
-# Projeto Automação Web - Busca de Preços <img src="imagens/logo_python.png" width="30" height="30"> <img src="imagens/logo_pandas.png" width="40" height="40"><img src="imagens/logo_webscraping.png" width="30" height="30">
+# Projeto Automação Web - Busca de Preços <img src="imagens/logo_python.png" width="30" height="30"> <img src="imagens/logo_pandas.png" width="40" height="40"> <img src="imagens/logo_webscraping.png" width="30" height="30">
 
 
 ### Descrição:
@@ -21,4 +21,4 @@
 - Podemos colocar esse programa para rodar de 3 em 3 horas ou então todo dia as 10hrs da manhã. Podemos fazer isso via agendador de tarefas do Windows (nesse caso seria somente transformar o codigo em um executavel) ou então deixar o código rodando em background com um time.sleep(tempo)
 
 ### ex. E-mail enviado em caso de promoção:
-<img src="imagens/email_automacao_web.png" width="500">
+<img src="imagens/email_automacao_web.png" width="750">
